@@ -1,0 +1,21 @@
+{
+  "short_name": "VetAgro AI",
+  "name": "VetAgro Sustentável AI",
+  "description": "An AI-powered professional platform for veterinary medicine and sustainable agriculture in the Amazon.",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#0f766e",
+  "background_color": "#f1f5f9"
+}

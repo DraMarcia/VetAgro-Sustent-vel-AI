@@ -1,0 +1,8 @@
+{
+  "name": "VetAgro Sustentável AI",
+  "description": "An AI-powered professional platform for veterinary medicine and sustainable agriculture in the Amazon. Features content generation, data analysis, and interactive tools to promote sustainable practices and mitigate greenhouse gases.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
